@@ -1,3 +1,4 @@
 output*
+gcc*.pot
 *.mo
 .DS_Store
